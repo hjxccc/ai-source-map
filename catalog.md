@@ -2,7 +2,7 @@
 
 当前收录 **165 个实际去重入口**，核对日期：2026-07-30。所有链接均指向对应官网、仓库、论文平台或作者账号，不使用本站二次跳转。
 
-## 第一类：聚合入口：集中发现最新动态
+## 第一类：聚合入口｜集中发现最新动态
 
 | 信源 | 类型 | 适合看什么 | 原始网址 |
 |---|---|---|---|
@@ -35,7 +35,7 @@
 | [伯乐 Skill / AI News Radar 原仓库](https://github.com/LearnPrompt/ai-news-radar) | Skill | 信源发现、稳定性判断、去重与日报网站 | `https://github.com/LearnPrompt/ai-news-radar` |
 | [伯乐 Skill 介绍原帖](https://x.com/aiwarts/status/2053845829580923329) | 作者原帖 | 卡尔的 AI 沃茨介绍伯乐 Skill 的原始长帖 | `https://x.com/aiwarts/status/2053845829580923329` |
 
-## 第二类：官方博客：确认产品发布口径
+## 第二类：官方博客｜确认产品发布口径
 
 | 信源 | 类型 | 适合看什么 | 原始网址 |
 |---|---|---|---|
@@ -78,7 +78,7 @@
 | [Anthropic GitHub](https://github.com/anthropics) | 官方仓库 | Anthropic SDK、课程与开源工具 | `https://github.com/anthropics` |
 | [Hugging Face GitHub](https://github.com/huggingface) | 官方仓库 | Transformers、Datasets 与开源工具 | `https://github.com/huggingface` |
 
-## 第三类：论文原站：追踪研究进展
+## 第三类：论文原站｜追踪研究进展
 
 | 信源 | 类型 | 适合看什么 | 原始网址 |
 |---|---|---|---|
@@ -103,7 +103,7 @@
 | [Distill](https://distill.pub/) | 研究档案 | 机器学习可视化解释文章档案 | `https://distill.pub/` |
 | [ar5iv](https://ar5iv.labs.arxiv.org/) | HTML 阅读 | 将部分 arXiv 论文转换为更易读的 HTML | `https://ar5iv.labs.arxiv.org/` |
 
-## 第四类：第三方评测：提供横向数据
+## 第四类：第三方评测｜提供横向数据
 
 | 信源 | 类型 | 适合看什么 | 原始网址 |
 |---|---|---|---|
@@ -128,7 +128,7 @@
 | [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html) | 工具调用 | 模型函数调用与工具使用能力 | `https://gorilla.cs.berkeley.edu/leaderboard.html` |
 | [LMSYS Org](https://lmsys.org/blog/) | 研究组织 | 模型评测、推理系统与研究发布 | `https://lmsys.org/blog/` |
 
-## 第五类：独立作者与社区：补充解释和观点
+## 第五类：独立作者与社区｜补充解释和观点
 
 | 信源 | 类型 | 适合看什么 | 原始网址 |
 |---|---|---|---|
