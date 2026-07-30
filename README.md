@@ -10,7 +10,7 @@ GitHub Pages 启用后，可直接在网页中搜索并打开全部信源：
 
 **https://hjxccc.github.io/ai-source-map/**
 
-当前网页收录文章直接提到的 68 个去重入口。标题中的“100+”还包括 AI HOT、AI News Radar、伯乐 Skill 等聚合工具背后覆盖的来源，这些来源之间存在重合，因此不把它们相加成一个虚假的精确数字。
+当前网页明确列出 **165 个实际去重入口**，不是把 AI HOT、AI News Radar 或伯乐 Skill 背后的来源模糊相加。每一项都提供名称、用途和原始网址。
 
 ## 五类信源
 
@@ -20,7 +20,7 @@ GitHub Pages 启用后，可直接在网页中搜索并打开全部信源：
 4. **第三方评测**：提供横向数据
 5. **独立作者与社区**：补充解释和观点
 
-完整说明见 [catalog.md](catalog.md)，X 账号名单见 [x-accounts.md](x-accounts.md)。
+完整的 165 项清单见 [catalog.md](catalog.md)，X 账号名单见 [x-accounts.md](x-accounts.md)，便于程序读取的数据见 [sources.json](sources.json)。
 
 ## 特别推荐的两个中文入口
 
@@ -58,8 +58,11 @@ AI HOT 提供精选、全部动态、日报，以及 Skill、RSS、REST API 等 
 ## 目录文件
 
 - `index.html`：面向普通读者的可搜索、可点击网页
-- `catalog.md`：五类信源、适用场景与边界
+- `sources.json`：165 个信源的结构化数据
+- `catalog.md`：五类信源、用途与原始网址
 - `x-accounts.md`：X 上值得关注的 AI 官方账号、产品成员与独立作者
+- `sources.mjs`：目录的可维护源数据
+- `validate.mjs`：失效链接检查脚本
 
 ## 收录原则
 

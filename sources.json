@@ -1,0 +1,1157 @@
+[
+  {
+    "label": "AI HOT",
+    "url": "https://aihot.virxact.com/",
+    "group": "discover",
+    "type": "聚合站",
+    "description": "中文 AI 热点、精选、日报与多源聚合"
+  },
+  {
+    "label": "AI News Radar",
+    "url": "https://news.learnprompt.pro/",
+    "group": "discover",
+    "type": "聚合站",
+    "description": "24 小时 AI 信号、热点合并与信源健康状态"
+  },
+  {
+    "label": "AI News Radar GitHub Pages",
+    "url": "https://learnprompt.github.io/ai-news-radar/",
+    "group": "discover",
+    "type": "项目原址",
+    "description": "AI News Radar 与伯乐 Skill 的原始网页入口"
+  },
+  {
+    "label": "AI News",
+    "url": "https://news.smol.ai/",
+    "group": "discover",
+    "type": "日报",
+    "description": "开发者社区、产品与论文动态的每日汇总"
+  },
+  {
+    "label": "Hugging Face Daily Papers",
+    "url": "https://huggingface.co/papers",
+    "group": "discover",
+    "type": "论文发现",
+    "description": "社区每日关注的论文、简介与讨论"
+  },
+  {
+    "label": "Hugging Face Trending Models",
+    "url": "https://huggingface.co/models?sort=trending",
+    "group": "discover",
+    "type": "模型发现",
+    "description": "近期下载、收藏与讨论升温的模型"
+  },
+  {
+    "label": "GitHub Trending",
+    "url": "https://github.com/trending",
+    "group": "discover",
+    "type": "开源发现",
+    "description": "按日或周发现热度上升的开源项目"
+  },
+  {
+    "label": "Hacker News",
+    "url": "https://news.ycombinator.com/",
+    "group": "discover",
+    "type": "社区",
+    "description": "全球开发者对技术发布的早期讨论"
+  },
+  {
+    "label": "Reddit r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/",
+    "group": "discover",
+    "type": "社区",
+    "description": "开源模型、本地部署、量化与硬件实践"
+  },
+  {
+    "label": "TechCrunch AI",
+    "url": "https://techcrunch.com/category/artificial-intelligence/",
+    "group": "discover",
+    "type": "媒体",
+    "description": "AI 公司、融资与产品新闻"
+  },
+  {
+    "label": "VentureBeat AI",
+    "url": "https://venturebeat.com/category/ai/",
+    "group": "discover",
+    "type": "媒体",
+    "description": "企业 AI、模型与开发者生态"
+  },
+  {
+    "label": "The Decoder",
+    "url": "https://the-decoder.com/",
+    "group": "discover",
+    "type": "媒体",
+    "description": "模型、研究与 AI 产品新闻"
+  },
+  {
+    "label": "AI News",
+    "url": "https://www.artificialintelligence-news.com/",
+    "group": "discover",
+    "type": "媒体",
+    "description": "人工智能产业与产品新闻"
+  },
+  {
+    "label": "MarkTechPost",
+    "url": "https://www.marktechpost.com/",
+    "group": "discover",
+    "type": "媒体",
+    "description": "机器学习论文、模型与工具速览"
+  },
+  {
+    "label": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence",
+    "group": "discover",
+    "type": "媒体",
+    "description": "面向大众的 AI 产品与产业报道"
+  },
+  {
+    "label": "Ars Technica AI",
+    "url": "https://arstechnica.com/ai/",
+    "group": "discover",
+    "type": "媒体",
+    "description": "AI 技术、政策与产品报道"
+  },
+  {
+    "label": "Product Hunt AI",
+    "url": "https://www.producthunt.com/topics/artificial-intelligence",
+    "group": "discover",
+    "type": "产品发现",
+    "description": "发现新上线的 AI 产品"
+  },
+  {
+    "label": "InfoQ AI/ML",
+    "url": "https://www.infoq.com/ai-ml-data-eng/",
+    "group": "discover",
+    "type": "媒体",
+    "description": "面向工程师的 AI、机器学习与数据工程内容"
+  },
+  {
+    "label": "MIT Technology Review AI",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "group": "discover",
+    "type": "媒体",
+    "description": "AI 研究、产业与社会影响报道"
+  },
+  {
+    "label": "WaytoAGI",
+    "url": "https://www.waytoagi.com/",
+    "group": "discover",
+    "type": "社区",
+    "description": "中文 AI 学习、工具与社区内容"
+  },
+  {
+    "label": "机器之心",
+    "url": "https://www.jiqizhixin.com/",
+    "group": "discover",
+    "type": "中文媒体",
+    "description": "中文 AI 研究、产品与产业资讯"
+  },
+  {
+    "label": "量子位",
+    "url": "https://www.qbitai.com/",
+    "group": "discover",
+    "type": "中文媒体",
+    "description": "中文 AI 公司、模型和产品资讯"
+  },
+  {
+    "label": "Synced",
+    "url": "https://syncedreview.com/",
+    "group": "discover",
+    "type": "媒体",
+    "description": "机器学习研究与产业动态"
+  },
+  {
+    "label": "WIRED AI",
+    "url": "https://www.wired.com/tag/artificial-intelligence/",
+    "group": "discover",
+    "type": "媒体",
+    "description": "AI 产品、商业与社会议题"
+  },
+  {
+    "label": "OpenAI News",
+    "url": "https://openai.com/news/",
+    "group": "official",
+    "type": "官方发布",
+    "description": "OpenAI 产品、模型、研究与公司公告"
+  },
+  {
+    "label": "OpenAI Developers",
+    "url": "https://developers.openai.com/",
+    "group": "official",
+    "type": "开发文档",
+    "description": "OpenAI API、SDK、模型与开发说明"
+  },
+  {
+    "label": "OpenAI Cookbook",
+    "url": "https://cookbook.openai.com/",
+    "group": "official",
+    "type": "示例仓库",
+    "description": "OpenAI API 的官方示例与实践"
+  },
+  {
+    "label": "OpenAI Status",
+    "url": "https://status.openai.com/",
+    "group": "official",
+    "type": "状态页",
+    "description": "OpenAI 产品与 API 服务状态"
+  },
+  {
+    "label": "Anthropic News",
+    "url": "https://www.anthropic.com/news",
+    "group": "official",
+    "type": "官方发布",
+    "description": "Anthropic 模型、研究、安全与公司公告"
+  },
+  {
+    "label": "Claude Blog",
+    "url": "https://claude.com/blog",
+    "group": "official",
+    "type": "官方博客",
+    "description": "Claude、Claude Code、Agents 与产品实践"
+  },
+  {
+    "label": "Anthropic Docs",
+    "url": "https://docs.anthropic.com/",
+    "group": "official",
+    "type": "开发文档",
+    "description": "Claude API、Claude Code 与开发文档"
+  },
+  {
+    "label": "Anthropic Status",
+    "url": "https://status.anthropic.com/",
+    "group": "official",
+    "type": "状态页",
+    "description": "Anthropic 服务运行状态"
+  },
+  {
+    "label": "Google DeepMind Blog",
+    "url": "https://deepmind.google/discover/blog/",
+    "group": "official",
+    "type": "官方博客",
+    "description": "Google DeepMind 模型与研究发布"
+  },
+  {
+    "label": "Google AI Blog",
+    "url": "https://blog.google/technology/ai/",
+    "group": "official",
+    "type": "官方博客",
+    "description": "Google AI 产品与研究动态"
+  },
+  {
+    "label": "Gemini API Changelog",
+    "url": "https://ai.google.dev/gemini-api/docs/changelog",
+    "group": "official",
+    "type": "更新日志",
+    "description": "Gemini API 版本与能力更新"
+  },
+  {
+    "label": "Meta AI Blog",
+    "url": "https://ai.meta.com/blog/",
+    "group": "official",
+    "type": "官方博客",
+    "description": "Meta AI、Llama 与研究发布"
+  },
+  {
+    "label": "Meta Research GitHub",
+    "url": "https://github.com/facebookresearch",
+    "group": "official",
+    "type": "官方仓库",
+    "description": "Meta Research 的模型与研究代码"
+  },
+  {
+    "label": "xAI News",
+    "url": "https://x.ai/news",
+    "group": "official",
+    "type": "官方发布",
+    "description": "xAI 与 Grok 产品、模型和公司公告"
+  },
+  {
+    "label": "Mistral AI News",
+    "url": "https://mistral.ai/news",
+    "group": "official",
+    "type": "官方发布",
+    "description": "Mistral 模型、产品与公司公告"
+  },
+  {
+    "label": "Mistral AI Docs",
+    "url": "https://docs.mistral.ai/",
+    "group": "official",
+    "type": "开发文档",
+    "description": "Mistral API 与模型开发文档"
+  },
+  {
+    "label": "Cohere Blog",
+    "url": "https://cohere.com/blog",
+    "group": "official",
+    "type": "官方博客",
+    "description": "Cohere 模型、企业 AI 与研究动态"
+  },
+  {
+    "label": "Cohere Docs",
+    "url": "https://docs.cohere.com/",
+    "group": "official",
+    "type": "开发文档",
+    "description": "Cohere API 与模型说明"
+  },
+  {
+    "label": "Microsoft AI Blog",
+    "url": "https://blogs.microsoft.com/ai/",
+    "group": "official",
+    "type": "官方博客",
+    "description": "Microsoft AI 产品、研究与公司动态"
+  },
+  {
+    "label": "Azure AI Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/category/ai-machine-learning/",
+    "group": "official",
+    "type": "官方博客",
+    "description": "Azure AI 与机器学习产品更新"
+  },
+  {
+    "label": "GitHub AI & ML",
+    "url": "https://github.blog/ai-and-ml/",
+    "group": "official",
+    "type": "官方博客",
+    "description": "GitHub Copilot、Agent 与 AI 编程实践"
+  },
+  {
+    "label": "GitHub Changelog",
+    "url": "https://github.blog/changelog/",
+    "group": "official",
+    "type": "更新日志",
+    "description": "GitHub 与 Copilot 功能更新"
+  },
+  {
+    "label": "NVIDIA AI Blog",
+    "url": "https://blogs.nvidia.com/blog/category/deep-learning/",
+    "group": "official",
+    "type": "官方博客",
+    "description": "NVIDIA AI、芯片、模型与生态"
+  },
+  {
+    "label": "NVIDIA Generative AI",
+    "url": "https://developer.nvidia.com/blog/tag/generative-ai/",
+    "group": "official",
+    "type": "开发者博客",
+    "description": "生成式 AI 推理、训练和部署技术"
+  },
+  {
+    "label": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/",
+    "group": "official",
+    "type": "官方博客",
+    "description": "AWS AI/ML 服务、方案与案例"
+  },
+  {
+    "label": "Google Cloud AI Blog",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning",
+    "group": "official",
+    "type": "官方博客",
+    "description": "Google Cloud AI 与机器学习产品"
+  },
+  {
+    "label": "Apple Machine Learning Research",
+    "url": "https://machinelearning.apple.com/",
+    "group": "official",
+    "type": "研究主页",
+    "description": "Apple 机器学习论文与研究"
+  },
+  {
+    "label": "Stability AI News",
+    "url": "https://stability.ai/news",
+    "group": "official",
+    "type": "官方发布",
+    "description": "Stability AI 模型、产品与公司公告"
+  },
+  {
+    "label": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog",
+    "group": "official",
+    "type": "官方博客",
+    "description": "Hugging Face 产品与开源生态发布"
+  },
+  {
+    "label": "Kimi Blog",
+    "url": "https://www.kimi.com/blog/",
+    "group": "official",
+    "type": "官方博客",
+    "description": "Kimi 模型、技术报告与产品更新"
+  },
+  {
+    "label": "Qwen Blog",
+    "url": "https://qwenlm.github.io/blog/",
+    "group": "official",
+    "type": "官方博客",
+    "description": "Qwen 模型家族、技术报告与开源发布"
+  },
+  {
+    "label": "DeepSeek News",
+    "url": "https://api-docs.deepseek.com/news/",
+    "group": "official",
+    "type": "官方发布",
+    "description": "DeepSeek API、模型与产品更新"
+  },
+  {
+    "label": "Moonshot AI GitHub",
+    "url": "https://github.com/MoonshotAI",
+    "group": "official",
+    "type": "官方仓库",
+    "description": "Moonshot AI 开源模型与工程项目"
+  },
+  {
+    "label": "Qwen GitHub",
+    "url": "https://github.com/QwenLM",
+    "group": "official",
+    "type": "官方仓库",
+    "description": "Qwen 模型、Agent 与工具仓库"
+  },
+  {
+    "label": "DeepSeek GitHub",
+    "url": "https://github.com/deepseek-ai",
+    "group": "official",
+    "type": "官方仓库",
+    "description": "DeepSeek 模型、论文与代码"
+  },
+  {
+    "label": "OpenAI GitHub",
+    "url": "https://github.com/openai",
+    "group": "official",
+    "type": "官方仓库",
+    "description": "OpenAI 开源项目与示例"
+  },
+  {
+    "label": "Anthropic GitHub",
+    "url": "https://github.com/anthropics",
+    "group": "official",
+    "type": "官方仓库",
+    "description": "Anthropic SDK、课程与开源工具"
+  },
+  {
+    "label": "Hugging Face GitHub",
+    "url": "https://github.com/huggingface",
+    "group": "official",
+    "type": "官方仓库",
+    "description": "Transformers、Datasets 与开源工具"
+  },
+  {
+    "label": "arXiv cs.AI",
+    "url": "https://arxiv.org/list/cs.AI/recent",
+    "group": "papers",
+    "type": "预印本",
+    "description": "人工智能方向最新预印本"
+  },
+  {
+    "label": "arXiv cs.CL",
+    "url": "https://arxiv.org/list/cs.CL/recent",
+    "group": "papers",
+    "type": "预印本",
+    "description": "计算语言学与大语言模型论文"
+  },
+  {
+    "label": "arXiv cs.LG",
+    "url": "https://arxiv.org/list/cs.LG/recent",
+    "group": "papers",
+    "type": "预印本",
+    "description": "机器学习方向最新预印本"
+  },
+  {
+    "label": "arXiv cs.CV",
+    "url": "https://arxiv.org/list/cs.CV/recent",
+    "group": "papers",
+    "type": "预印本",
+    "description": "计算机视觉与多模态论文"
+  },
+  {
+    "label": "OpenReview",
+    "url": "https://openreview.net/",
+    "group": "papers",
+    "type": "评审平台",
+    "description": "论文投稿、评审、作者回复与会议决定"
+  },
+  {
+    "label": "ACL Anthology",
+    "url": "https://aclanthology.org/",
+    "group": "papers",
+    "type": "论文库",
+    "description": "NLP 与计算语言学正式论文"
+  },
+  {
+    "label": "PMLR",
+    "url": "https://proceedings.mlr.press/",
+    "group": "papers",
+    "type": "论文库",
+    "description": "机器学习会议正式论文集"
+  },
+  {
+    "label": "NeurIPS Proceedings",
+    "url": "https://proceedings.neurips.cc/",
+    "group": "papers",
+    "type": "论文库",
+    "description": "NeurIPS 正式论文"
+  },
+  {
+    "label": "ICML",
+    "url": "https://icml.cc/",
+    "group": "papers",
+    "type": "会议",
+    "description": "国际机器学习大会官网与日程"
+  },
+  {
+    "label": "ICLR",
+    "url": "https://iclr.cc/",
+    "group": "papers",
+    "type": "会议",
+    "description": "国际学习表征会议官网"
+  },
+  {
+    "label": "Semantic Scholar",
+    "url": "https://www.semanticscholar.org/",
+    "group": "papers",
+    "type": "学术搜索",
+    "description": "论文检索、引用关系与作者信息"
+  },
+  {
+    "label": "Papers with Code",
+    "url": "https://paperswithcode.com/",
+    "group": "papers",
+    "type": "论文与代码",
+    "description": "论文、代码和任务榜单"
+  },
+  {
+    "label": "Connected Papers",
+    "url": "https://www.connectedpapers.com/",
+    "group": "papers",
+    "type": "论文关系",
+    "description": "用引用关系探索相关论文"
+  },
+  {
+    "label": "Google Research",
+    "url": "https://research.google/",
+    "group": "papers",
+    "type": "研究机构",
+    "description": "Google 研究项目与论文"
+  },
+  {
+    "label": "Microsoft Research",
+    "url": "https://www.microsoft.com/en-us/research/",
+    "group": "papers",
+    "type": "研究机构",
+    "description": "Microsoft Research 论文与项目"
+  },
+  {
+    "label": "BAIR Blog",
+    "url": "https://bair.berkeley.edu/blog/",
+    "group": "papers",
+    "type": "研究博客",
+    "description": "伯克利 AI 研究与实验解读"
+  },
+  {
+    "label": "Stanford HAI",
+    "url": "https://hai.stanford.edu/news",
+    "group": "papers",
+    "type": "研究机构",
+    "description": "斯坦福以人为本 AI 研究与政策"
+  },
+  {
+    "label": "MIT CSAIL",
+    "url": "https://www.csail.mit.edu/news",
+    "group": "papers",
+    "type": "研究机构",
+    "description": "MIT 计算机与 AI 实验室动态"
+  },
+  {
+    "label": "Distill",
+    "url": "https://distill.pub/",
+    "group": "papers",
+    "type": "研究档案",
+    "description": "机器学习可视化解释文章档案"
+  },
+  {
+    "label": "ar5iv",
+    "url": "https://ar5iv.labs.arxiv.org/",
+    "group": "papers",
+    "type": "HTML 阅读",
+    "description": "将部分 arXiv 论文转换为更易读的 HTML"
+  },
+  {
+    "label": "LMArena",
+    "url": "https://lmarena.ai/",
+    "group": "benchmarks",
+    "type": "盲测榜单",
+    "description": "基于用户盲测投票的模型比较"
+  },
+  {
+    "label": "Artificial Analysis",
+    "url": "https://artificialanalysis.ai/",
+    "group": "benchmarks",
+    "type": "综合评测",
+    "description": "模型质量、速度、价格与开放程度"
+  },
+  {
+    "label": "OpenRouter Rankings",
+    "url": "https://openrouter.ai/rankings",
+    "group": "benchmarks",
+    "type": "调用榜单",
+    "description": "OpenRouter 站内模型调用与消费排行"
+  },
+  {
+    "label": "OpenRouter Provider Benchmarks",
+    "url": "https://openrouter.ai/provider-benchmarks",
+    "group": "benchmarks",
+    "type": "供应商评测",
+    "description": "供应商延迟、吞吐和可用性数据"
+  },
+  {
+    "label": "SWE-bench",
+    "url": "https://www.swebench.com/",
+    "group": "benchmarks",
+    "type": "代码评测",
+    "description": "真实 GitHub Issue 代码修复评测"
+  },
+  {
+    "label": "LiveBench",
+    "url": "https://livebench.ai/",
+    "group": "benchmarks",
+    "type": "动态评测",
+    "description": "持续更新、减少污染的模型评测"
+  },
+  {
+    "label": "Stanford HELM",
+    "url": "https://crfm.stanford.edu/helm/",
+    "group": "benchmarks",
+    "type": "综合评测",
+    "description": "透明、多场景的语言模型评测框架"
+  },
+  {
+    "label": "Open LLM Leaderboard",
+    "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+    "group": "benchmarks",
+    "type": "开源榜单",
+    "description": "Hugging Face 开源模型评测榜单"
+  },
+  {
+    "label": "Aider LLM Leaderboards",
+    "url": "https://aider.chat/docs/leaderboards/",
+    "group": "benchmarks",
+    "type": "代码评测",
+    "description": "模型在代码编辑任务中的表现"
+  },
+  {
+    "label": "Terminal-Bench",
+    "url": "https://www.tbench.ai/",
+    "group": "benchmarks",
+    "type": "Agent 评测",
+    "description": "终端环境中 AI Agent 的任务表现"
+  },
+  {
+    "label": "WebArena",
+    "url": "https://webarena.dev/",
+    "group": "benchmarks",
+    "type": "网页 Agent",
+    "description": "网页环境中的自主 Agent 评测"
+  },
+  {
+    "label": "OSWorld",
+    "url": "https://os-world.github.io/",
+    "group": "benchmarks",
+    "type": "电脑操作",
+    "description": "真实桌面环境中的多模态 Agent 评测"
+  },
+  {
+    "label": "BigCodeBench",
+    "url": "https://bigcode-bench.github.io/",
+    "group": "benchmarks",
+    "type": "代码评测",
+    "description": "面向复杂指令的代码生成评测"
+  },
+  {
+    "label": "EvalPlus",
+    "url": "https://evalplus.github.io/",
+    "group": "benchmarks",
+    "type": "代码评测",
+    "description": "HumanEval 与 MBPP 的增强测试"
+  },
+  {
+    "label": "MTEB Leaderboard",
+    "url": "https://huggingface.co/spaces/mteb/leaderboard",
+    "group": "benchmarks",
+    "type": "Embedding",
+    "description": "文本嵌入模型的多任务比较"
+  },
+  {
+    "label": "Epoch AI Benchmarks",
+    "url": "https://epoch.ai/benchmarks",
+    "group": "benchmarks",
+    "type": "研究数据",
+    "description": "AI 模型能力、算力与趋势数据"
+  },
+  {
+    "label": "MLPerf",
+    "url": "https://mlcommons.org/benchmarks/",
+    "group": "benchmarks",
+    "type": "行业标准",
+    "description": "训练与推理性能的行业基准"
+  },
+  {
+    "label": "AgentBench",
+    "url": "https://github.com/THUDM/AgentBench",
+    "group": "benchmarks",
+    "type": "Agent 评测",
+    "description": "大语言模型作为 Agent 的多环境评测"
+  },
+  {
+    "label": "Berkeley Function-Calling Leaderboard",
+    "url": "https://gorilla.cs.berkeley.edu/leaderboard.html",
+    "group": "benchmarks",
+    "type": "工具调用",
+    "description": "模型函数调用与工具使用能力"
+  },
+  {
+    "label": "LMSYS Org",
+    "url": "https://lmsys.org/blog/",
+    "group": "benchmarks",
+    "type": "研究组织",
+    "description": "模型评测、推理系统与研究发布"
+  },
+  {
+    "label": "The Batch",
+    "url": "https://www.deeplearning.ai/the-batch/",
+    "group": "voices",
+    "type": "Newsletter",
+    "description": "吴恩达团队的每周 AI 简报"
+  },
+  {
+    "label": "Simon Willison’s Weblog",
+    "url": "https://simonwillison.net/",
+    "group": "voices",
+    "type": "独立博客",
+    "description": "新模型、AI 编程工具实测与原始链接"
+  },
+  {
+    "label": "Latent Space",
+    "url": "https://www.latent.space/",
+    "group": "voices",
+    "type": "访谈",
+    "description": "AI 工程、创业者与研究者深度访谈"
+  },
+  {
+    "label": "Interconnects",
+    "url": "https://www.interconnects.ai/",
+    "group": "voices",
+    "type": "Newsletter",
+    "description": "训练、后训练与开放模型分析"
+  },
+  {
+    "label": "SemiAnalysis",
+    "url": "https://semianalysis.com/",
+    "group": "voices",
+    "type": "产业分析",
+    "description": "芯片、算力、数据中心与 AI 产业链"
+  },
+  {
+    "label": "alphaXiv",
+    "url": "https://alphaxiv.org/",
+    "group": "voices",
+    "type": "论文社区",
+    "description": "论文解释、讨论、补充与质疑"
+  },
+  {
+    "label": "One Useful Thing",
+    "url": "https://www.oneusefulthing.org/",
+    "group": "voices",
+    "type": "Newsletter",
+    "description": "Ethan Mollick 的生成式 AI 使用与社会观察"
+  },
+  {
+    "label": "Import AI",
+    "url": "https://importai.substack.com/",
+    "group": "voices",
+    "type": "Newsletter",
+    "description": "Jack Clark 的 AI 研究与政策周报"
+  },
+  {
+    "label": "Ahead of AI",
+    "url": "https://magazine.sebastianraschka.com/",
+    "group": "voices",
+    "type": "Newsletter",
+    "description": "Sebastian Raschka 的模型与研究教程"
+  },
+  {
+    "label": "Last Week in AI",
+    "url": "https://lastweekin.ai/",
+    "group": "voices",
+    "type": "Newsletter",
+    "description": "每周 AI 新闻与播客"
+  },
+  {
+    "label": "Ben’s Bites",
+    "url": "https://www.bensbites.com/",
+    "group": "voices",
+    "type": "Newsletter",
+    "description": "AI 产品、创业与工具快讯"
+  },
+  {
+    "label": "TLDR AI",
+    "url": "https://tldr.tech/ai",
+    "group": "voices",
+    "type": "Newsletter",
+    "description": "面向开发者的 AI 日报"
+  },
+  {
+    "label": "Pacing the Frontier",
+    "url": "https://www.pacingthefrontier.com/",
+    "group": "voices",
+    "type": "独立博客",
+    "description": "模型能力、研究趋势与前沿进展"
+  },
+  {
+    "label": "Dwarkesh Podcast",
+    "url": "https://www.dwarkesh.com/",
+    "group": "voices",
+    "type": "访谈",
+    "description": "AI 研究者、公司负责人和思想者长访谈"
+  },
+  {
+    "label": "No Priors",
+    "url": "https://www.no-priors.com/",
+    "group": "voices",
+    "type": "播客",
+    "description": "AI 创业、研究和产业访谈"
+  },
+  {
+    "label": "Practical AI",
+    "url": "https://practicalai.fm/",
+    "group": "voices",
+    "type": "播客",
+    "description": "面向开发者的 AI 工程与应用讨论"
+  },
+  {
+    "label": "Data Elixir",
+    "url": "https://dataelixir.com/",
+    "group": "voices",
+    "type": "Newsletter",
+    "description": "数据科学与机器学习资源周报"
+  },
+  {
+    "label": "TheSequence",
+    "url": "https://thesequence.substack.com/",
+    "group": "voices",
+    "type": "Newsletter",
+    "description": "机器学习研究与行业分析"
+  },
+  {
+    "label": "Sebastian Raschka",
+    "url": "https://sebastianraschka.com/",
+    "group": "voices",
+    "type": "独立博客",
+    "description": "机器学习、LLM 教程与研究解释"
+  },
+  {
+    "label": "Lil’Log",
+    "url": "https://lilianweng.github.io/",
+    "group": "voices",
+    "type": "独立博客",
+    "description": "Lilian Weng 的深度学习与 Agent 长文"
+  },
+  {
+    "label": "Chip Huyen",
+    "url": "https://huyenchip.com/blog/",
+    "group": "voices",
+    "type": "独立博客",
+    "description": "机器学习系统、AI 工程与产品实践"
+  },
+  {
+    "label": "Eugene Yan",
+    "url": "https://eugeneyan.com/",
+    "group": "voices",
+    "type": "独立博客",
+    "description": "推荐系统、LLM 应用与工程实践"
+  },
+  {
+    "label": "swyx",
+    "url": "https://www.swyx.io/",
+    "group": "voices",
+    "type": "独立博客",
+    "description": "AI 工程、Agent 与开发者生态"
+  },
+  {
+    "label": "Sam Altman（@sama）",
+    "url": "https://x.com/sama",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "OpenAI 公司方向与重大产品信号"
+  },
+  {
+    "label": "Greg Brockman（@gdb）",
+    "url": "https://x.com/gdb",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "OpenAI 技术进展、演示与产品动态"
+  },
+  {
+    "label": "Demis Hassabis（@demishassabis）",
+    "url": "https://x.com/demishassabis",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "Google DeepMind 模型、科研与 AI for Science"
+  },
+  {
+    "label": "Andrej Karpathy（@karpathy）",
+    "url": "https://x.com/karpathy",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "LLM、Agent 与 AI 编程的长期判断"
+  },
+  {
+    "label": "吴恩达（@AndrewYNg）",
+    "url": "https://x.com/AndrewYNg",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "AI 教育、落地方法与行业判断"
+  },
+  {
+    "label": "李飞飞（@drfeifei）",
+    "url": "https://x.com/drfeifei",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "计算机视觉、空间智能与以人为本 AI"
+  },
+  {
+    "label": "Yann LeCun（@ylecun）",
+    "url": "https://x.com/ylecun",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "AI 研究路线、批评与反方观点"
+  },
+  {
+    "label": "Tibo（@thsottiaux）",
+    "url": "https://x.com/thsottiaux",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "Codex 与 ChatGPT 产品侧即时信号"
+  },
+  {
+    "label": "Alexander Embiricos（@embirico）",
+    "url": "https://x.com/embirico",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "Codex App、Windows 与产品发布"
+  },
+  {
+    "label": "Boris Cherny（@bcherny）",
+    "url": "https://x.com/bcherny",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "Claude Code 更新、修复与工作流"
+  },
+  {
+    "label": "Cat Wu（@_catwu）",
+    "url": "https://x.com/_catwu",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "Claude Code、Cowork 与产品动态"
+  },
+  {
+    "label": "Thariq（@trq212）",
+    "url": "https://x.com/trq212",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "Claude Code Skills 与团队实践"
+  },
+  {
+    "label": "宝玉（@dotey）",
+    "url": "https://x.com/dotey",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "Agent、Skill、Prompt 与海外动态中文解释"
+  },
+  {
+    "label": "数字生命卡兹克（@Khazix0918）",
+    "url": "https://x.com/Khazix0918",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "AI 产品、工具与 AI HOT 精选线索"
+  },
+  {
+    "label": "卡尔的 AI 沃茨（@aiwarts）",
+    "url": "https://x.com/aiwarts",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "AI News Radar、伯乐 Skill 与信源系统"
+  },
+  {
+    "label": "向阳乔木（@vista8）",
+    "url": "https://x.com/vista8",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "AI 产品、工具与实际用法"
+  },
+  {
+    "label": "歸藏（@op7418）",
+    "url": "https://x.com/op7418",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "AI 图像、视频与设计工具实践"
+  },
+  {
+    "label": "Simon Willison（@simonw）",
+    "url": "https://x.com/simonw",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "模型与开发工具快速实测"
+  },
+  {
+    "label": "Interconnects（@interconnectsai）",
+    "url": "https://x.com/interconnectsai",
+    "group": "voices",
+    "type": "X 账号",
+    "description": "训练、后训练与研究趋势"
+  },
+  {
+    "label": "OpenAI（@OpenAI）",
+    "url": "https://x.com/OpenAI",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "OpenAI 官方产品、模型与公司动态"
+  },
+  {
+    "label": "OpenAI Developers（@OpenAIDevs）",
+    "url": "https://x.com/OpenAIDevs",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "OpenAI API、SDK 与开发者动态"
+  },
+  {
+    "label": "Anthropic（@AnthropicAI）",
+    "url": "https://x.com/AnthropicAI",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "Claude 模型、研究与公司正式发布"
+  },
+  {
+    "label": "Google DeepMind（@GoogleDeepMind）",
+    "url": "https://x.com/GoogleDeepMind",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "Google DeepMind 研究与模型发布"
+  },
+  {
+    "label": "Google AI（@GoogleAI）",
+    "url": "https://x.com/GoogleAI",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "Gemini 与 Google AI 产品动态"
+  },
+  {
+    "label": "Meta AI（@MetaAI）",
+    "url": "https://x.com/MetaAI",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "Meta AI、Llama 与研究动态"
+  },
+  {
+    "label": "Mistral AI（@MistralAI）",
+    "url": "https://x.com/MistralAI",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "Mistral 模型、产品与公司动态"
+  },
+  {
+    "label": "xAI（@xai）",
+    "url": "https://x.com/xai",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "xAI 与 Grok 官方动态"
+  },
+  {
+    "label": "Hugging Face（@huggingface）",
+    "url": "https://x.com/huggingface",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "开源模型、数据集与平台动态"
+  },
+  {
+    "label": "GitHub（@github）",
+    "url": "https://x.com/github",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "GitHub、Copilot 与开发者产品动态"
+  },
+  {
+    "label": "NVIDIA AI（@NVIDIAAI）",
+    "url": "https://x.com/NVIDIAAI",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "AI 芯片、模型与开发者生态"
+  },
+  {
+    "label": "Cohere（@cohere）",
+    "url": "https://x.com/cohere",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "企业模型、研究与产品动态"
+  },
+  {
+    "label": "Stability AI（@StabilityAI）",
+    "url": "https://x.com/StabilityAI",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "图像、音频与生成模型动态"
+  },
+  {
+    "label": "Perplexity（@perplexity_ai）",
+    "url": "https://x.com/perplexity_ai",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "AI 搜索产品与模型接入动态"
+  },
+  {
+    "label": "Cursor（@cursor_ai）",
+    "url": "https://x.com/cursor_ai",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "AI 编程产品更新"
+  },
+  {
+    "label": "Replit（@Replit）",
+    "url": "https://x.com/Replit",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "AI 编程、Agent 与云开发产品"
+  },
+  {
+    "label": "Vercel（@vercel）",
+    "url": "https://x.com/vercel",
+    "group": "voices",
+    "type": "官方 X",
+    "description": "AI SDK、v0 与前端开发生态"
+  },
+  {
+    "label": "AI HOT Agent 接入",
+    "url": "https://aihot.virxact.com/agent",
+    "group": "discover",
+    "type": "Skill",
+    "description": "AI HOT 的 Skill、RSS 与 REST API 接入说明"
+  },
+  {
+    "label": "AI HOT Skill 完整包",
+    "url": "https://aihot.virxact.com/aihot-skill/",
+    "group": "discover",
+    "type": "Skill",
+    "description": "AI HOT 官方提供的 Skill 文件"
+  },
+  {
+    "label": "伯乐 Skill / AI News Radar 原仓库",
+    "url": "https://github.com/LearnPrompt/ai-news-radar",
+    "group": "discover",
+    "type": "Skill",
+    "description": "信源发现、稳定性判断、去重与日报网站"
+  },
+  {
+    "label": "伯乐 Skill 介绍原帖",
+    "url": "https://x.com/aiwarts/status/2053845829580923329",
+    "group": "discover",
+    "type": "作者原帖",
+    "description": "卡尔的 AI 沃茨介绍伯乐 Skill 的原始长帖"
+  }
+]
