@@ -6,7 +6,7 @@
 
 | 信源 | 类型 | 适合看什么 | 原始网址 |
 |---|---|---|---|
-| [AI HOT](https://aihot.virxact.com/) | 聚合站 | 中文 AI 热点、精选、日报与多源聚合 | `https://aihot.virxact.com/` |
+| [AI HOT](https://aihot.news/) | 聚合站 | 中文 AI 热点、精选、日报与多源聚合 | `https://aihot.news/` |
 | [AI News Radar](https://news.learnprompt.pro/) | 聚合站 | 24 小时 AI 信号、热点合并与信源健康状态 | `https://news.learnprompt.pro/` |
 | [AI News Radar GitHub Pages](https://learnprompt.github.io/ai-news-radar/) | 项目原址 | AI News Radar 与伯乐 Skill 的原始网页入口 | `https://learnprompt.github.io/ai-news-radar/` |
 | [AI News](https://news.smol.ai/) | 日报 | 开发者社区、产品与论文动态的每日汇总 | `https://news.smol.ai/` |
@@ -30,8 +30,8 @@
 | [量子位](https://www.qbitai.com/) | 中文媒体 | 中文 AI 公司、模型和产品资讯 | `https://www.qbitai.com/` |
 | [Synced](https://syncedreview.com/) | 媒体 | 机器学习研究与产业动态 | `https://syncedreview.com/` |
 | [WIRED AI](https://www.wired.com/tag/artificial-intelligence/) | 媒体 | AI 产品、商业与社会议题 | `https://www.wired.com/tag/artificial-intelligence/` |
-| [AI HOT Agent 接入](https://aihot.virxact.com/agent) | Skill | AI HOT 的 Skill、RSS 与 REST API 接入说明 | `https://aihot.virxact.com/agent` |
-| [AI HOT Skill 完整包](https://aihot.virxact.com/aihot-skill/) | Skill | AI HOT 官方提供的 Skill 文件 | `https://aihot.virxact.com/aihot-skill/` |
+| [AI HOT Agent 接入](https://aihot.news/agent) | Skill | AI HOT 的 Skill、RSS 与 REST API 接入说明 | `https://aihot.news/agent` |
+| [AI HOT Skill 完整包](https://aihot.news/aihot-skill/README.md) | Skill | AI HOT 官方提供的 Skill 文件 | `https://aihot.news/aihot-skill/README.md` |
 | [伯乐 Skill / AI News Radar 原仓库](https://github.com/LearnPrompt/ai-news-radar) | Skill | 信源发现、稳定性判断、去重与日报网站 | `https://github.com/LearnPrompt/ai-news-radar` |
 | [伯乐 Skill 介绍原帖](https://x.com/aiwarts/status/2053845829580923329) | 作者原帖 | 卡尔的 AI 沃茨介绍伯乐 Skill 的原始长帖 | `https://x.com/aiwarts/status/2053845829580923329` |
 

@@ -28,10 +28,10 @@ GitHub Pages 启用后，可直接在网页中搜索并打开全部信源：
 
 数字生命卡兹克制作的中文 AI 资讯聚合站。
 
-- 网站原址：https://aihot.virxact.com/
-- 关于页面：https://aihot.virxact.com/about
-- Agent 接入：https://aihot.virxact.com/agent
-- Skill 完整包：https://aihot.virxact.com/aihot-skill/
+- 官网：https://aihot.news/
+- 关于页面：https://aihot.news/about
+- Agent 接入：https://aihot.news/agent
+- Skill 完整包：https://aihot.news/aihot-skill/README.md
 
 AI HOT 提供精选、全部动态、日报，以及 Skill、RSS、REST API 等 Agent 接入方式。网页适合普通读者直接浏览，结构化入口适合 Agent 和自动化流程调用。
 

@@ -4,7 +4,7 @@ const item = (category, type, name, url, description) => ({
 
 export const sources = [
   // 第一类：聚合入口
-  item("discover", "聚合站", "AI HOT", "https://aihot.virxact.com/", "中文 AI 热点、精选、日报与多源聚合"),
+  item("discover", "聚合站", "AI HOT", "https://aihot.news/", "中文 AI 热点、精选、日报与多源聚合"),
   item("discover", "聚合站", "AI News Radar", "https://news.learnprompt.pro/", "24 小时 AI 信号、热点合并与信源健康状态"),
   item("discover", "项目原址", "AI News Radar GitHub Pages", "https://learnprompt.github.io/ai-news-radar/", "AI News Radar 与伯乐 Skill 的原始网页入口"),
   item("discover", "日报", "AI News", "https://news.smol.ai/", "开发者社区、产品与论文动态的每日汇总"),
@@ -175,8 +175,8 @@ export const sources = [
   item("voices", "官方 X", "Vercel（@vercel）", "https://x.com/vercel", "AI SDK、v0 与前端开发生态"),
 
   // 两个重点 Skill 的原始入口
-  item("discover", "Skill", "AI HOT Agent 接入", "https://aihot.virxact.com/agent", "AI HOT 的 Skill、RSS 与 REST API 接入说明"),
-  item("discover", "Skill", "AI HOT Skill 完整包", "https://aihot.virxact.com/aihot-skill/", "AI HOT 官方提供的 Skill 文件"),
+  item("discover", "Skill", "AI HOT Agent 接入", "https://aihot.news/agent", "AI HOT 的 Skill、RSS 与 REST API 接入说明"),
+  item("discover", "Skill", "AI HOT Skill 完整包", "https://aihot.news/aihot-skill/README.md", "AI HOT 官方提供的 Skill 文件"),
   item("discover", "Skill", "伯乐 Skill / AI News Radar 原仓库", "https://github.com/LearnPrompt/ai-news-radar", "信源发现、稳定性判断、去重与日报网站"),
   item("discover", "作者原帖", "伯乐 Skill 介绍原帖", "https://x.com/aiwarts/status/2053845829580923329", "卡尔的 AI 沃茨介绍伯乐 Skill 的原始长帖"),
 ];

@@ -1,7 +1,7 @@
 [
   {
     "label": "AI HOT",
-    "url": "https://aihot.virxact.com/",
+    "url": "https://aihot.news/",
     "group": "discover",
     "type": "聚合站",
     "description": "中文 AI 热点、精选、日报与多源聚合"
@@ -1128,14 +1128,14 @@
   },
   {
     "label": "AI HOT Agent 接入",
-    "url": "https://aihot.virxact.com/agent",
+    "url": "https://aihot.news/agent",
     "group": "discover",
     "type": "Skill",
     "description": "AI HOT 的 Skill、RSS 与 REST API 接入说明"
   },
   {
     "label": "AI HOT Skill 完整包",
-    "url": "https://aihot.virxact.com/aihot-skill/",
+    "url": "https://aihot.news/aihot-skill/README.md",
     "group": "discover",
     "type": "Skill",
     "description": "AI HOT 官方提供的 Skill 文件"
